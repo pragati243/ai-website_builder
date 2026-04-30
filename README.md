@@ -27,17 +27,6 @@ It also includes user authentication (signup/login), task management, and automa
 
 ---
 
-
-## ▶️ Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/-OBv_LPE2B0/0.jpg)](https://youtu.be/-OBv_LPE2B0)
-
-> 🎥 *Click the thumbnail above to watch the full walkthrough on YouTube.*
-
----
-
-
-
 ## 🚀 Features
 
 - 🔥 Generate full multi-page websites using AI (OpenAI GPT models)
